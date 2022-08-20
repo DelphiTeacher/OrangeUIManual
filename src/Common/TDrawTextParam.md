@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 控件公共属性
+  title: Common Properteis
   path: /components
   order: 2
 group:
