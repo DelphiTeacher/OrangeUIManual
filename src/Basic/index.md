@@ -3,6 +3,8 @@ nav:
   title: Basics
   path: /components
   order: 0
+group:
+  order: 10
 ---
 
 

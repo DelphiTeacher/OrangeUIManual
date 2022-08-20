@@ -3,6 +3,8 @@ nav:
   title: Install
   path: /components
   order: 0
+group:
+  order: 0
 ---
 
 

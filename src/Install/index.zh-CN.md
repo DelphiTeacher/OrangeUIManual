@@ -3,6 +3,8 @@ nav:
   title: 安装
   path: /components
   order: 0
+group:
+  order: 0
 ---
 
 OrangeUI的安装方法如下:
