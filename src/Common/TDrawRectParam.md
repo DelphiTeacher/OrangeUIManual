@@ -8,7 +8,7 @@ group:
 
 ---
 
-## DrawRectParam
+## TDrawRectParam
 parameters while drawing rectangle  
 //whether fill this rectangle  
 IsFill:Boolean  
