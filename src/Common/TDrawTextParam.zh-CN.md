@@ -30,3 +30,12 @@ fvaBottom:  垂直居下
 //是否垂直绘制  
 IsDrawVert:Boolean  
 
+
+## 实践：给按钮设置标题绘制参数
+给按钮设置标题为”登录”，  
+字体大小设置为14,颜色设置为白色，并且居中显示，  
+按钮标题的字体在SelfOwnMaterial.DrawCaptionParam中设置，  
+![](http://www.orangeui.cn/orangeuiblog/OrangeUI/1.1.OrangeUI%E6%8E%A7%E4%BB%B6%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80(%E7%A4%BA%E4%BE%8B1%20%E8%AE%BE%E7%BD%AE%E6%8E%A7%E4%BB%B6%E8%83%8C%E6%99%AF%E8%89%B2).files/image015.png)
+
+好了，一个颜色按钮完成了,效果如下：  
+![](http://www.orangeui.cn/orangeuiblog/OrangeUI/1.1.OrangeUI%E6%8E%A7%E4%BB%B6%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80(%E7%A4%BA%E4%BE%8B1%20%E8%AE%BE%E7%BD%AE%E6%8E%A7%E4%BB%B6%E8%83%8C%E6%99%AF%E8%89%B2).files/image017.png)

@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Common Properteis
+  title: Common Properties
   path: /components
   order: 0
 group:

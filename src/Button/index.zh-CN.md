@@ -1,13 +1,13 @@
 ---
 nav:
-  title: Components
+  title: 按钮
   path: /components
   order: 1
 ---
 
-## Foo
+## Button
 
-Demo:
+<!-- Demo:
 
 ```tsx
 import React from 'react';
@@ -16,4 +16,6 @@ import { Foo } from 'dumi-template';
 export default () => <Foo title="First Demo" />;
 ```
 
-More skills for writing demo: https://d.umijs.org/guide/demo-principle
+[更多技巧](https://d.umijs.org/guide/demo-principle) -->
+
+

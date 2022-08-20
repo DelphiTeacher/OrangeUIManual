@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Common Properteis
+  title: Common Properties
   path: /components
   order: 2
 group:
@@ -8,7 +8,7 @@ group:
 
 ---
 
-## TDrawLineParam:
+## TDrawLineParam
 parameters while drawing line  
 //color of line  
 Color:TDrawColor  
