@@ -1,4 +1,6 @@
 ---
+title: 矩形绘制效果TDrawRectParamEffect
+order: 8
 nav:
   title: 控件公共属性
   path: /components

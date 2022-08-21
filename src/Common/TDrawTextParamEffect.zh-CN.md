@@ -1,4 +1,6 @@
 ---
+title: 文本绘制效果TDrawTextParamEffect
+order: 9
 nav:
   title: 控件公共属性
   path: /components

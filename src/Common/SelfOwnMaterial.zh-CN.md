@@ -1,4 +1,6 @@
 ---
+title: 控件样式
+order: 1
 nav:
   title: 控件公共属性
   path: /components

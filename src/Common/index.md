@@ -1,8 +1,10 @@
 ---
+title: Properties
+order: 0
 nav:
   title: Common Properties
   path: /components
-  order: 0
+  order: 2
 group:
   order: 20
 ---

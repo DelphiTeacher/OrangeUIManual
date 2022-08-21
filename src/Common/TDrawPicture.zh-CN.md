@@ -1,4 +1,6 @@
 ---
+title: 图片TDrawPicture
+order: 7
 nav:
   title: 控件公共属性
   path: /components

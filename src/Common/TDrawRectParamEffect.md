@@ -1,4 +1,6 @@
 ---
+title: TDrawRectParamEffect
+order: 8
 nav:
   title: Common Properties
   path: /components

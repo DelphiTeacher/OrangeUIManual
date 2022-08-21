@@ -1,4 +1,6 @@
 ---
+title: TDrawTextParamEffect
+order: 9
 nav:
   title: Common Properties
   path: /components

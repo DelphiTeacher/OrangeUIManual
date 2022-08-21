@@ -1,4 +1,6 @@
 ---
+title: 矩形绘制参数TDrawRectParam
+order: 3
 nav:
   title: 控件公共属性
   path: /components

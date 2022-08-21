@@ -1,4 +1,6 @@
 ---
+title: 文本绘制参数TDrawTextParam
+order: 4
 nav:
   title: 控件公共属性
   path: /components

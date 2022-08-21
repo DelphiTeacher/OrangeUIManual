@@ -1,4 +1,6 @@
 ---
+title: 图片绘制参数TDrawPictureParam
+order: 5
 nav:
   title: 控件公共属性
   path: /components

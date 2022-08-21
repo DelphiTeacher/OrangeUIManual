@@ -1,4 +1,6 @@
 ---
+title: 绘制参数基类TDrawParam
+order: 2
 nav:
   title: 控件公共属性
   path: /components

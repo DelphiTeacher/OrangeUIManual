@@ -6,7 +6,7 @@ hero:
   desc: 📖 A component package can assist you to develop Mobile Appp.
   actions:
     - text: Getting Started
-      link: /components/foo
+      link: /components/Install
 features:
   - icon: http://www.orangeui.cn/image/k79dm8ih_w144_h144.png
     title: Out of the box

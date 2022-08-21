@@ -1,4 +1,6 @@
 ---
+title: TDrawPicture
+order: 7
 nav:
   title: Common Properties
   path: /components

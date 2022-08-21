@@ -1,4 +1,6 @@
 ---
+title: Control Style
+order: 1
 nav:
   title: Common Properties
   path: /components

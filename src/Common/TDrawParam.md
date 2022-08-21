@@ -1,4 +1,6 @@
 ---
+title: TDrawParam
+order: 2
 nav:
   title: Common Properties
   path: /components

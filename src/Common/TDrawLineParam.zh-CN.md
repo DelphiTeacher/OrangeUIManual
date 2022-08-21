@@ -1,4 +1,6 @@
 ---
+title: 线条绘制参数TDrawLineParam
+order: 6
 nav:
   title: 控件公共属性
   path: /components

@@ -6,7 +6,7 @@ hero:
   desc: 📖 为移动开发而生的界面控件包
   actions:
     - text: 快速上手
-      link: /zh-CN/components/foo
+      link: /zh-CN/components/Install
 features:
   - icon: http://www.orangeui.cn/image/k79dm8ih_w144_h144.png
     title: 开箱即用
@@ -21,7 +21,7 @@ features:
     title: 齐全的框架
     desc: 对话框、提示框、等待框、单选页、多选页、选择相册页、选择城市页、选择联系人页......无需再从轮子造起
   - icon: http://www.orangeui.cn/image/kj9t7ww3_w144_h144.png
-    title: Professional technical support
+    title: 专业的技术支持
     desc: 数十年软件开发和移动端组件研发能力，提供强有力的技术支持，为您的项目保驾护航
   - icon: http://www.orangeui.cn/image/kj9t9sk7_w144_h144.png
     title: 终身受用

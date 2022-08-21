@@ -25,6 +25,5 @@ export default defineConfig({
       path: 'http://www.orangeui.cn/wordpress/',
     },
   ],
-  // more config: https://d.umijs.org/config
 
 });
