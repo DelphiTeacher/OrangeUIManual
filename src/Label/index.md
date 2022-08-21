@@ -1,5 +1,5 @@
 ---
-title: Label's Properties and SelfOwnMaterial
+title: Properties and SelfOwnMaterial
 order: 0
 nav:
   title: Label

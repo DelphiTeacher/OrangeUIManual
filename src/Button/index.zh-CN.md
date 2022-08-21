@@ -1,5 +1,5 @@
 ---
-title: 按钮属性与素材
+title: 属性与素材
 order: 0
 nav:
   title: 按钮Button

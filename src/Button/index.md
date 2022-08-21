@@ -1,5 +1,5 @@
 ---
-title: Button's Properties and Material
+title: Properties and Material
 order: 0
 nav:
   title: Button
