@@ -2,7 +2,7 @@
 title: 按钮组控件ButtonGroup
 order: 9
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---

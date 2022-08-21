@@ -2,7 +2,7 @@
 title: 按钮属性与素材
 order: 0
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---

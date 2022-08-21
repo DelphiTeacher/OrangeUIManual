@@ -2,7 +2,7 @@
 title: 制作背景图片按钮
 order: 8
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---

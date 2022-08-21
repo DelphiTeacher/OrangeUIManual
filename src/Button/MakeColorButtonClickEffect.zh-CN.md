@@ -2,7 +2,7 @@
 title: 给颜色按钮添加点击效果
 order: 2
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---

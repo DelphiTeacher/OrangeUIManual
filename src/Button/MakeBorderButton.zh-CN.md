@@ -2,7 +2,7 @@
 title: 制作边框按钮
 order: 3
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---

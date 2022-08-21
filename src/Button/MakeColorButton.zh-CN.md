@@ -2,7 +2,7 @@
 title: 制作颜色按钮
 order: 1
 nav:
-  title: 按钮
+  title: 按钮Button
   path: /components
   order: 3
 ---
