@@ -53,6 +53,39 @@ ItemPanDragDesignerPanel TItemDesignerPanel
 
 
 
+
+
+
+
+Item's Properties are：
+Caption: String;  
+Detail: String;  
+
+Icon:TBaseDrawPicture;  
+Width:Double;  
+
+Color:TDelphiColor;  
+Name: String;  
+
+Pic:TBaseDrawPicture;  
+Tag:Integer;  
+Tag1:Integer;  
+ItemType:TSkinItemType;  
+
+Detail1: String;  
+Detail2: String;  
+Detail3: String;  
+Detail4: String;  
+Detail5: String;  
+Detail6: String;  
+SubItems:TStringList;  
+Accessory:TSkinAccessoryType;  
+
+
+
+
+
+
 ListBox&ListView's SelfOwnMaterial:TSkinListBoxDefaultMaterial has:  
 DrawItemBackColorParam TDrawRectParam The background color drawing parameter of the list item  
 DrawItemIconParam TDrawPictureParam Icon drawing parameter of list item  

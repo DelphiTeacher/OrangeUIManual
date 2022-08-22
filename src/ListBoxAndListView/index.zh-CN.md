@@ -53,6 +53,60 @@ ItemPanDragDesignerPanel	TItemDesignerPanel
 
 
 
+列表项的属性有：
+//标题  
+Caption: String;  
+//明细  
+Detail: String;  
+
+//图标(延迟创建,调用Icon属性时才会创建,避免资源占用过多)  
+Icon:TBaseDrawPicture;  
+//宽度,如果为-1,表示使用列表项的默认宽度ListBox.Prop.ItemWidth  
+Width:Double;  
+
+//颜色  
+Color:TDelphiColor;  
+//名字  
+Name: String;  
+
+
+//图片(延迟创建,调用Pic属性时才会创建,避免资源占用过多)  
+Pic:TBaseDrawPicture;  
+//标记  
+Tag:Integer;  
+//标记1  
+Tag1:Integer;  
+//列表项类型(决定根据哪个ItemDesignerPanel来绘制)  
+ItemType:TSkinItemType;  
+
+//颜色  
+Color:TDelphiColor;  
+//名字  
+Name: String;  
+//宽度,如果为-1,表示使用列表项的默认宽度ListBox.Prop.ItemWidth  
+Width:Double;  
+
+//明细1  
+Detail1: String;  
+//明细2  
+Detail2: String;  
+//明细3  
+Detail3: String;  
+//明细4  
+Detail4: String;  
+//明细5   
+Detail5: String;  
+//明细6  
+Detail6: String;  
+//附加数据字符串列表  
+SubItems:TStringList;  
+//隐藏或显示绑定的控件  
+Accessory:TSkinAccessoryType;  
+
+
+
+
+
 ListBox&ListView的SelfOwnMaterial:TSkinListBoxDefaultMaterial的素材:    
 DrawItemBackColorParam	TDrawRectParam	列表项的背景颜色绘制参数  
 DrawItemIconParam	TDrawPictureParam	列表项的图标绘制参数  
