@@ -1,8 +1,8 @@
 ---
-title: 列表项平移菜单
+title: List item pan menu
 order: 6
 nav:
-  title: 列表控件ListBox&ListView
+  title: ListBox&ListView
   path: /components
   order: 10
 ---
