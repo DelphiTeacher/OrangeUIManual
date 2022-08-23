@@ -16,6 +16,10 @@ export default defineConfig({
   publicPath: `/${repo}/`,
   navs: [
     null,
+    // {
+    //   title: 'Install',
+    //   path: '/components/Install',
+    // },
     {
       title: 'GitHub',
       path: 'https://github.com/DelphiTeacher/OrangeUI',
