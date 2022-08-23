@@ -18,7 +18,7 @@ export default defineConfig({
     null,
     // {
     //   title: 'Install',
-    //   path: '/components/Install',
+    //   path: '/components/install',
     // },
     {
       title: 'GitHub',

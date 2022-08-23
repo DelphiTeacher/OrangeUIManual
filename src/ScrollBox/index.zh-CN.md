@@ -2,10 +2,11 @@
 title: 属性与素材
 order: 0
 nav:
-  title: 滚动框ScrollBox
+  title: Doc
   path: /components
   order: 13
 group:
+  title: 滚动框ScrollBox
   order: 130
 ---
 

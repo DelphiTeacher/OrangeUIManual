@@ -1,9 +1,11 @@
 ---
+title: 安装
 nav:
-  title: 安装
+  title: Doc
   path: /components
   order: 0
 group:
+  title: 安装
   order: 0
 ---
 

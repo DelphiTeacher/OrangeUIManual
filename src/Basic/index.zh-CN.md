@@ -1,9 +1,11 @@
 ---
+title: 使用基础
 nav:
-  title: 使用基础
+  title: Doc
   path: /components
   order: 1
 group:
+  title: 使用基础
   order: 10
 ---
 

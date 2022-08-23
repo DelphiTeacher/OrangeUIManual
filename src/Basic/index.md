@@ -1,9 +1,11 @@
 ---
+title: Basics
 nav:
-  title: Basics
+  title: Doc
   path: /components
   order: 1
 group:
+  title: Basics
   order: 10
 ---
 

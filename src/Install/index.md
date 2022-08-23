@@ -1,9 +1,11 @@
 ---
+title: Install
 nav:
-  title: Install
+  title: Doc
   path: /components
   order: 0
 group:
+  title: Install
   order: 0
 ---
 

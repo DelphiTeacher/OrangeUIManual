@@ -1,11 +1,12 @@
 ---
-title: 属性与素材
+title: Properties and Material
 order: 0
 nav:
-  title: 滚动框ScrollBox
+  title: Doc
   path: /components
   order: 13
 group:
+  title: ScrollBox
   order: 130
 ---
 
