@@ -76,3 +76,29 @@ end;
 
 
 
+示例一，区分奇偶行的背景色  
+默认是区分厅偶行的背景色的，  
+Grid.SelfOwnMaterial.RowBackColorMaterial.IsDiffOddAndEven为True，  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-6.png)
+
+
+效果如下:  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-7.png)
+
+
+示例二，更改奇偶行的背景色  
+奇行背景色在Grid.SelfOwnMaterial.RowBackColorMaterial.OddRowBackColor中设置，  
+偶行背景色在Grid.SelfOwnMaterial.RowBackColorMaterial.EvenRowBackColor中设置，  
+我们把奇行背景色设置为绿色，偶行背景色设置为红色，  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-8.png)
+
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-9.png)
+
+
+
+效果如下:  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-10.png)
+
+
+
+

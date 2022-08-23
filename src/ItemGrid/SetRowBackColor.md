@@ -70,3 +70,28 @@ Set Grid.SelfOwnMaterial.RowBackColorMaterial.BackColor.PushedEffect.FillColor t
 ![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-19.png)
 
 
+
+
+Example 1, distinguish the background color of odd and even lines  
+The default is to distinguish the background color of the hall and even rows.  
+Grid.SelfOwnMaterial.RowBackColorMaterial.IsDiffOddAndEven is True,  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-6.png)
+
+
+The effect is as follows:  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-7.png)
+
+
+Example 2, change the background color of the parity row  
+The odd row background color is set in Grid.SelfOwnMaterial.RowBackColorMaterial.OddRowBackColor,  
+Even row background color is set in Grid.SelfOwnMaterial.RowBackColorMaterial.EvenRowBackColor,  
+We set the odd row background color to green and the even row background color to red,  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-8.png)
+
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-9.png)
+
+
+
+The effect is as follows:  
+![](http://www.orangeui.cn/wordpress/wp-content/uploads/2020/03/word-image-10.png)
+
