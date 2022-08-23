@@ -4,10 +4,10 @@ order: 0
 nav:
   title: Doc
   path: /components
-  order: 13
+  order: 14
 group:
   title: 多彩文本MultiColorLabel
-  order: 130
+  order: 140
 ---
 
 多彩文本的Properties:TMultiColorLabelProperties的属性有:  

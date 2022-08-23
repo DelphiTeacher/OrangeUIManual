@@ -4,10 +4,10 @@ order: 0
 nav:
   title: Doc
   path: /components
-  order: 13
+  order: 14
 group:
   title: MultiColorLabel
-  order: 130
+  order: 140
 ---
 
 MultiColorLabel's Properties:TMultiColorLabelProperties has:   
