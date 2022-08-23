@@ -5,6 +5,8 @@ nav:
   title: 文本框Edit
   path: /components
   order: 6
+group:
+  order: 60
 ---
 
 文本框的Properties:TEditProperties里面的属性有:  

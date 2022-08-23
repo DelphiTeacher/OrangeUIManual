@@ -5,6 +5,8 @@ nav:
   title: 单选框RadioButton
   path: /components
   order: 9
+group:
+  order: 90
 ---
 
 单选框的Properties:TRadioButtonProperties里面的属性有:  

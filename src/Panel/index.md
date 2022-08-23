@@ -5,6 +5,8 @@ nav:
   title: Panel
   path: /components
   order: 7
+group:
+  order: 70
 ---
 
 Panel's Properties:TPanelProperties has:  

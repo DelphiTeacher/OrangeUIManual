@@ -5,6 +5,8 @@ nav:
   title: 复选框CheckBox
   path: /components
   order: 8
+group:
+  order: 80
 ---
 
 讲解一下颜色复选框CheckBox的设置:  

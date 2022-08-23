@@ -5,6 +5,8 @@ nav:
   title: 按钮Button
   path: /components
   order: 3
+group:
+  order: 39
 ---
 
 分组按钮的效果如下:  

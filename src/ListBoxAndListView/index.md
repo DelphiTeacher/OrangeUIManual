@@ -5,6 +5,8 @@ nav:
   title: ListBox&ListView
   path: /components
   order: 10
+group:
+  order: 100
 ---
 
 ListBox&ListView's Properties:TRadioButtonProperties has:    

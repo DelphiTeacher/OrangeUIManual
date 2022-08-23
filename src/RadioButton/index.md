@@ -5,6 +5,8 @@ nav:
   title: RadioButton
   path: /components
   order: 9
+group:
+  order: 90
 ---
 
 RadioButton's Properties:TRadioButtonProperties has:    

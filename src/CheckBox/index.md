@@ -5,6 +5,8 @@ nav:
   title: CheckBox
   path: /components
   order: 8
+group:
+  order: 80
 ---
 
 ChekBox's Properties:TCheckBoxProperties has:  

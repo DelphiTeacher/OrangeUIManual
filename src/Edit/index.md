@@ -5,6 +5,8 @@ nav:
   title: Edit
   path: /components
   order: 6
+group:
+  order: 60
 ---
 
 Edit's Properties:TEditProperties has:  

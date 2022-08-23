@@ -5,6 +5,8 @@ nav:
   title: 列表控件ListBox&ListView
   path: /components
   order: 10
+group:
+  order: 100
 ---
 
 ListBox&ListView的Properties:TRadioButtonProperties里面的属性有:    

@@ -5,6 +5,8 @@ nav:
   title: 标签Label
   path: /components
   order: 4
+group:
+  order: 40
 ---
 
 Label的Properties:TLabelProperties里面的属性有:  

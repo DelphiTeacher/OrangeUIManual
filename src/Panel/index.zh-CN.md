@@ -5,6 +5,8 @@ nav:
   title: 面板Panel
   path: /components
   order: 7
+group:
+  order: 70
 ---
 
 面板的Properties:TPanelProperties里面的属性有:  

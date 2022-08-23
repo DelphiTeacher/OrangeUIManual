@@ -5,6 +5,8 @@ nav:
   title: 复选框CheckBox
   path: /components
   order: 8
+group:
+  order: 80
 ---
 
 复选框的Properties:TCheckBoxProperties里面的属性有:  

@@ -5,6 +5,8 @@ nav:
   title: Label
   path: /components
   order: 4
+group:
+  order: 40
 ---
 
 Label's Properties:TLabelProperties has:  

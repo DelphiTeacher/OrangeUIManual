@@ -5,6 +5,8 @@ nav:
   title: Button
   path: /components
   order: 3
+group:
+  order: 39
 ---
 
 The effect of ButtonGroup is like this:  

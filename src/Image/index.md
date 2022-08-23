@@ -5,6 +5,8 @@ nav:
   title: Image
   path: /components
   order: 5
+group:
+  order: 50
 ---
 
 Image's Properties:TImageProperties has:  

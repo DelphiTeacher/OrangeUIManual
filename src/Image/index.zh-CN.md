@@ -5,6 +5,8 @@ nav:
   title: 图片控件Image
   path: /components
   order: 5
+group:
+  order: 50
 ---
 
 图片控件的Properties:TImageProperties里面的属性有:  

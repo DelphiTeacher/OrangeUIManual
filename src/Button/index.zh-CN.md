@@ -5,6 +5,8 @@ nav:
   title: 按钮Button
   path: /components
   order: 3
+group:
+  order: 30
 ---
 
 按钮的Properties:TButtonProperties里面的属性有:  
