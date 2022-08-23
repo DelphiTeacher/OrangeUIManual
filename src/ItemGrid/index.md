@@ -6,8 +6,6 @@ nav:
   path: /components
   order: 11
 group:
-  path: /components/ItemGrid
-  title: ItemGrid
   order: 110
 ---
 

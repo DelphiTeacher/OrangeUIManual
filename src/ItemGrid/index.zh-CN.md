@@ -6,8 +6,6 @@ nav:
   path: /components
   order: 11
 group:
-  path: /components/ItemGrid
-  title: 表格控件ItemGrid
   order: 110
 ---
 
