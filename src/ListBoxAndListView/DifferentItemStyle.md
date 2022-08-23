@@ -1,8 +1,8 @@
 ---
-title: 多列表项样式
+title: Multiple list item styles
 order: 13
 nav:
-  title: 列表控件ListBox&ListView
+  title: ListBox&ListView
   path: /components
   order: 10
 ---
