@@ -2,7 +2,7 @@
 title: Resolve gesture conflit
 order: 1
 nav:
-  title: 文档
+  title: Doc
   path: /components
   order: 16
 group:

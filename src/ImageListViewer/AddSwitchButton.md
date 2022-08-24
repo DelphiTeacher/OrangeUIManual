@@ -2,7 +2,7 @@
 title: Add switch button
 order: 2
 nav:
-  title: 文档
+  title: Doc
   path: /components
   order: 16
 group:

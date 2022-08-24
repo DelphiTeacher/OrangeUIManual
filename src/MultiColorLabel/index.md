@@ -2,7 +2,7 @@
 title: Properties and Material
 order: 0
 nav:
-  title: 文档
+  title: Doc
   path: /components
   order: 14
 group:
