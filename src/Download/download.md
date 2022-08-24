@@ -1,5 +1,6 @@
 ---
 title: Download
+order: 0.1
 nav:
   title: Download
   order: 0

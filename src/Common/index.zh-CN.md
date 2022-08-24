@@ -1,6 +1,6 @@
 ---
 title: 属性
-order: 0
+order: 0.1
 nav:
   title: 控件公共属性
   path: /components

@@ -1,6 +1,6 @@
 ---
 title: 属性与素材
-order: 0
+order: 0.1
 nav:
   title: 面板Panel
   path: /components

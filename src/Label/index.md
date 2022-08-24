@@ -1,6 +1,6 @@
 ---
 title: Properties and SelfOwnMaterial
-order: 0
+order: 0.1
 nav:
   title: Label
   path: /components

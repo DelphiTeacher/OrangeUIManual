@@ -40,3 +40,15 @@ Please visit [GitHub](https://github.com/DelphiTeacher/OrangeUI) or join the dis
   <img data-type="delphi_mp" src="http://www.orangeui.cn/image/delphi_mp_qrcode.jpg" width="300" />
   <img data-type="my_wechat" src="http://www.orangeui.cn/image/my_wechat_qrcode.jpg" width="300" />
 </div>
+
+
+## Contact us  
+QQ:	452330643 (https://www.imqq.com)  
+Wechat:	DelphiTeacher (https://www.wechat.com/en/)  
+Technical QQ group:	10900297 (https://www.imqq.com)  
+Mobile:	+86-18957901025  
+Email:	ggggcexx@163.com  
+Facebook:	ggggcexx@163.com  
+Twitter:	ggggcexx@163.com  
+WhatsApp:	+8618957901025  
+CSDN blog:	http://blog.csdn.net/delphiteacher  

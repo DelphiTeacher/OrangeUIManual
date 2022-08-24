@@ -40,3 +40,15 @@ footer: 版权所有 2015-2022 orangeui.CN, Inc. All Rights Reserved <br />浙IC
   <img data-type="delphi_mp" src="http://www.orangeui.cn/image/delphi_mp_qrcode.jpg" width="300" />
   <img data-type="my_wechat" src="http://www.orangeui.cn/image/my_wechat_qrcode.jpg" width="300" />
 </div>
+
+
+## 联系我们
+QQ:	452330643 (https://www.imqq.com)  
+微信:	DelphiTeacher (https://www.wechat.com/en/)  
+技术支持QQ群:	10900297 (https://www.imqq.com)  
+Mobile:	+86-18957901025  
+Email:	ggggcexx@163.com  
+Facebook:	ggggcexx@163.com  
+Twitter:	ggggcexx@163.com  
+WhatsApp:	+8618957901025  
+CSDN博客:	http://blog.csdn.net/delphiteacher  

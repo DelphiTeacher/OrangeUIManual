@@ -1,6 +1,6 @@
 ---
 title: Properties
-order: 0
+order: 0.1
 nav:
   title: ListBox&ListView
   path: /components

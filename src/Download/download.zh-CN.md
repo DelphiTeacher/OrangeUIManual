@@ -1,5 +1,6 @@
 ---
 title: 下载
+order: 0.1
 nav:
   title: 下载
   order: 0

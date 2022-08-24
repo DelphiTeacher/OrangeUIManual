@@ -1,6 +1,6 @@
 ---
 title: Properties and Material
-order: 0
+order: 0.1
 nav:
   title: Panel
   path: /components
