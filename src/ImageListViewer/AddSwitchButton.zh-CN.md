@@ -2,7 +2,7 @@
 title: 添加切换按钮
 order: 2
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 16
 group:

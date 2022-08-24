@@ -2,7 +2,7 @@
 title: 绑定列表项
 order: 1
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 14
 group:

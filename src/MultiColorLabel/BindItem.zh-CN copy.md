@@ -2,7 +2,7 @@
 title: Bind Item
 order: 1
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 14
 group:

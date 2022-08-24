@@ -8,7 +8,7 @@ export default defineConfig({
     'http://www.orangeui.cn/image/logo_60.png',
   logo:
     'http://www.orangeui.cn/image/logo_60.png',
-  outputPath: 'docs-dist',
+  outputPath: 'dist',
   mode: 'site',
   hash: true,
   // Because of using GitHub Pages
@@ -19,6 +19,10 @@ export default defineConfig({
     // {
     //   title: 'Install',
     //   path: '/components/install',
+    // },
+    // {
+    //   title: 'Download',
+    //   path: '/components/install/download',
     // },
     {
       title: 'GitHub',

@@ -1,7 +1,7 @@
 ---
 title: 使用基础
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 1
 group:

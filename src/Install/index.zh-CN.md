@@ -1,7 +1,7 @@
 ---
 title: 安装
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 0
 group:

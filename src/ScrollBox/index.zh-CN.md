@@ -2,7 +2,7 @@
 title: 属性与素材
 order: 0
 nav:
-  title: Doc
+  title: 文档
   path: /components
   order: 13
 group:
