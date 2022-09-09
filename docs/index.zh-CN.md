@@ -29,11 +29,11 @@ features:
 footer: 版权所有 2015-2022 orangeui.CN, Inc. All Rights Reserved <br />浙ICP备15042650号-1
 ---
 
-
-
 ## 反馈与共建
 
-请访问 [GitHub](https://github.com/DelphiTeacher/OrangeUI) 或加入讨论群：
+请访问 [GitHub](https://github.com/DelphiTeacher/OrangeUI) 来与我共同建设  
+请访问 [Whatsapp](https://chat.whatsapp.com/HnsO8lr9nHGHMAZCUiJZtR) 来加入 Whatsapp 群组  
+请访问 [Telegram](https://t.me/+ucRAUnwMlnxiZWU1) 来加入 Telegram 群组
 
 <div>
   <img data-type="orangeui_qqgroup" src="http://www.orangeui.cn/image/orangeui_qqgroup_qrcode.jpg" width="300" />
@@ -41,14 +41,14 @@ footer: 版权所有 2015-2022 orangeui.CN, Inc. All Rights Reserved <br />浙IC
   <img data-type="my_wechat" src="http://www.orangeui.cn/image/my_wechat_qrcode.jpg" width="300" />
 </div>
 
-
 ## 联系我们
-QQ:	452330643 (https://www.imqq.com)  
-微信:	DelphiTeacher (https://www.wechat.com/en/)  
-技术支持QQ群:	10900297 (https://www.imqq.com)  
-Mobile:	+86-18957901025  
-Email:	ggggcexx@163.com  
-Facebook:	ggggcexx@163.com  
-Twitter:	ggggcexx@163.com  
-WhatsApp:	+8618957901025  
-CSDN博客:	http://blog.csdn.net/delphiteacher  
+
+QQ: 452330643 (https://www.imqq.com)  
+微信: DelphiTeacher (https://www.wechat.com/en/)  
+技术支持 QQ 群: 10900297 (https://www.imqq.com)  
+Mobile: +86-18957901025  
+Email: ggggcexx@163.com  
+Facebook: ggggcexx@163.com  
+Twitter: ggggcexx@163.com  
+WhatsApp: +8618957901025  
+CSDN 博客: http://blog.csdn.net/delphiteacher

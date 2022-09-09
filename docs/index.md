@@ -29,11 +29,11 @@ features:
 footer: Copyright 2015-2022 orangeui.CN, Inc. All Rights Reserved <br />浙ICP备15042650号-1
 ---
 
-
 ## Feedback
 
-Please visit [GitHub](https://github.com/DelphiTeacher/OrangeUI) or join the discuss group
-
+Please visit [GitHub](https://github.com/DelphiTeacher/OrangeUI) to complete it with me  
+Please visit [Whatsapp](https://chat.whatsapp.com/HnsO8lr9nHGHMAZCUiJZtR) to join the Whatsapp discuss group  
+Please visit [Telegram](https://t.me/+ucRAUnwMlnxiZWU1) to join the Telegram discuss group
 
 <div>
   <img data-type="orangeui_qqgroup" src="http://www.orangeui.cn/image/orangeui_qqgroup_qrcode.jpg" width="300" />
@@ -41,14 +41,14 @@ Please visit [GitHub](https://github.com/DelphiTeacher/OrangeUI) or join the dis
   <img data-type="my_wechat" src="http://www.orangeui.cn/image/my_wechat_qrcode.jpg" width="300" />
 </div>
 
+## Contact us
 
-## Contact us  
-QQ:	452330643 (https://www.imqq.com)  
-Wechat:	DelphiTeacher (https://www.wechat.com/en/)  
-Technical QQ group:	10900297 (https://www.imqq.com)  
-Mobile:	+86-18957901025  
-Email:	ggggcexx@163.com  
-Facebook:	ggggcexx@163.com  
-Twitter:	ggggcexx@163.com  
-WhatsApp:	+8618957901025  
-CSDN blog:	http://blog.csdn.net/delphiteacher  
+QQ: 452330643 (https://www.imqq.com)  
+Wechat: DelphiTeacher (https://www.wechat.com/en/)  
+Technical QQ group: 10900297 (https://www.imqq.com)  
+Mobile: +86-18957901025  
+Email: ggggcexx@163.com  
+Facebook: ggggcexx@163.com  
+Twitter: ggggcexx@163.com  
+WhatsApp: +8618957901025  
+CSDN blog: http://blog.csdn.net/delphiteacher
