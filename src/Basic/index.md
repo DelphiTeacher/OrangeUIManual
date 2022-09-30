@@ -1,6 +1,6 @@
 ---
 title: Basics
-order: 0.1
+order: 0.2
 nav:
   title: Doc
   path: /components

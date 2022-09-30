@@ -1,6 +1,6 @@
 ---
 title: 使用基础
-order: 0.1
+order: 0.2
 nav:
   title: 文档
   path: /components
