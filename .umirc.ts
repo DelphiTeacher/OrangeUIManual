@@ -36,5 +36,8 @@ export default defineConfig({
       path: 'http://www.orangeui.cn/delphi_area_index.html',
     },
   ],
-  // locales: [['zh-CN', '中文'], ['en-US', 'English']],
+  locales: [
+    ['zh-CN', '中文'],
+    ['en-US', 'English'],
+  ],
 });
