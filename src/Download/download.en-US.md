@@ -65,7 +65,7 @@ Support tool：Delphi 10.3.3 ~ 11.2
 | Free upgrade of controls within one year                                  | x                      | ✓           | ✓                  |
 | Provide control source code                                               | x                      | x           | ✓                  |
 | Price                                                                     | ￥ 0                   | \$99/year   | \$299/year         |
-| Price(if you have brought OrangeUI FMX)                                   | ￥ 0                   | \$59/year   | \$139/year         |
+| Price(During severice period of OrangeUI FMX)                             | ￥ 0                   | \$59/year   | \$139/year         |
 
 ## Payment type
 

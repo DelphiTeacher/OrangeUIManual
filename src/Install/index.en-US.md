@@ -40,8 +40,14 @@ If you create a new project and want to use OrangeUI,
 Then add the path of OrangeUI to the SearchPath of the project,  
 First of all, distinguish the version of XE installed on your computer (XE8, XE10, D10_1)  
 Then find the corresponding file or directory according to the version number,  
-For example, for the latest D10_1, the SearchPath to be configured is:  
-Absolute directory **\OrangeUIDesign\DCU\FMX\D10_1\$(Platform)\Release**  
+the rule of SearchPath to be configured is:  
+**Absolute directory\OrangeUIDesign\DCU\FMX\DelphiVersion\\\$(Platform)\Release**  
+For example, OrangeUI is at C:\MyFiles\OrangeUI\,  
+for the Delphi 10.4, the SearchPath to be configured is:  
+**C:\MyFiles\OrangeUI\OrangeUIDesign\DCU\FMX\D10_4\\\$(Platform)\Release**  
+for the latest D11.2, the SearchPath to be configured is:  
+**C:\MyFiles\OrangeUI\OrangeUIDesign\DCU\FMX\D11\\\$(Platform)\Release**
+
 Because the DCU version of the control does not have a DCU file in the Debug compilation mode, the DCU compiled by Release is used.  
 For example, right-click the example project OrangeQQ_FMX_D10_1.dproj,  
 Select Option in the pop-up menu, select "All CConfiguations - All platforms" in the target platform, and add the path to Delphi Compiler->SearchPath:
