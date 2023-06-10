@@ -9,19 +9,14 @@ sidemenu: false
 
 ## OrangeUI FMX
 
-最新版本：2.1  
-发布时间：2022-10-05  
+最新版本：2.2  
+发布时间：2023-05-13  
 支持平台：Windows+IOS+Android+Mac+Linux  
-支持工具：Delphi 10.3.3 ~ 11.2
+支持工具：Delphi 10.3.3 ~ 11.3
 
-[Download OrangeUI FMX 2.1 for 11.2 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.1%20Free%20For%20D11.2.rar)  
-[Download OrangeUI FMX 2.1 for 11.2 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.1%20VIP%20For%20D11.2.rar)
-
-[Download OrangeUI FMX 2.03 for 11.2 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.03%20For%20D11.2%20VIP.rar)
-
-[Download OrangeUI FMX 2.02 for 11.1 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.02%20For%20D11.1%20Free.rar)  
-[Download OrangeUI FMX 2.02 for 11.1 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.02%20For%20D11.1%20VIP.rar)  
-[Download OrangeUI FMX 2.02 for 11.1 源码版](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%202.02%20For%20D11.1%20SVIP.rar)
+[Download OrangeUI FMX 2.2 for 11 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%20FMX%202.2%20For%20D11%20Free.rar)  
+[Download OrangeUI FMX 2.2 for 11 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%20FMX%202.2%20For%20D11%20VIP.rar)  
+[Download OrangeUI FMX 2.2 for 11 源码版](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%202.2%20FMX%20FullSource.rar)
 
 [Download OrangeUI FMX 1.90 for 10.4.2~11 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%201.90%20For%20Delphi%2010.4.2~D11%20Free.rar)  
 [Download OrangeUI FMX 1.90 for 10.4.2~11 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI%20FMX%201.90%20For%20Delphi%2010.4.2~D11%20VIP.rar)
@@ -46,13 +41,14 @@ sidemenu: false
 
 ## OrangeUI VCL
 
-最新版本：2.1  
-发布时间：2022-10-05  
+最新版本：2.2  
+发布时间：2022-06-10  
 支持平台：Windows VCL  
-支持工具：Delphi 10.3.3 ~ 11.2
+支持工具：Delphi 10.3.3 ~ 11.3
 
-[Download OrangeUI VCL 2.1 for 10.3.3 ~ 11.2 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI%20VCL%202.1%20Free%20For%20D10.3.3~11.2.rar)  
-[Download OrangeUI VCL 2.1 for 10.3.3 ~ 11.2 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI%20VCL%202.1%20VIP%20For%20D10.3.3~11.2.rar)
+[Download OrangeUI VCL 2.2 for 10.3.3 ~ 11 免费版(功能有限制)](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%202.2%20VCL%20For%20D10.3~D11.3%20Free.rar)  
+[Download OrangeUI VCL 2.2 for 10.3.3 ~ 11 VIP 版](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%202.2%20VCL%20For%20D10.3~D11.3%20VIP.rar)  
+[Download OrangeUI VCL 2.2 for 10.3.3 ~ 11 源码版](http://qiniuoss.orangeui.cn/OrangeUI/OrangeUI%202.2%20VCL%20FullSource.rar)
 
 | 版本区别                       | 免费版              | VIP 版    | 源码版     |
 | ------------------------------ | ------------------- | --------- | ---------- |

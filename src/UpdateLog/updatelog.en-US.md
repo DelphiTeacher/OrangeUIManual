@@ -10,6 +10,15 @@ group:
   order: 10
 ---
 
+## 2023-05-13: 发布 OrangeUI FMX 2.2
+
+1.进度条加入环形样式  
+2.修复 PageControl 在设计面板上绘制不正常的问题（不常用）  
+3.TreeView 加入图标布局方式  
+4.列表项编辑的虚拟键盘遮挡自动处理  
+5.表格列加入虚拟键盘属性，用于编辑时指定虚拟键盘  
+6.加入了 SVG 图片格式的支持
+
 ## 2022-10-01: 发布 OrangeUI FMX 2.1
 
 1.加入图表控件  
@@ -237,8 +246,7 @@ TreeView.Prop.SelectedItem,InteractiveItem 等从原来的 TSkinTreeViewItem 改
 表格就显示出来了  
 2．当单元格被选中，还能再次响应 OnClickCell 事件  
 3．弃用 ItemGrid.Column.ItemDataType 和 SubItemIndex，全部改用 BindItemFieldName，比如原来要 Column 显示为 Item.Caption，是设置 Column.ItemDataType 为 idtCaption，现在是将 BindItemFieldName 设置为 ItemCaption。  
-5．公共页面中加入了通讯录的功能  
-
+5．公共页面中加入了通讯录的功能
 
 ## 2019-07-19: 发布 OrangeUI FMX 1.76.1 for D10.3.2
 
@@ -268,7 +276,7 @@ procedure FreeNoUsePicture(ASecondsBetween:Integer);
  IsSimulateVirtualKeyboardOnWindows:=True;  
  GlobalAutoProcessVirtualKeyboardControlClass:=TSkinFMXPanel;  
  GlobalAutoProcessVirtualKeyboardControl:=pnlVirtualKeyBoard;  
- GlobalAutoProcessVirtualKeyboardControl.Visible:=False;  
+ GlobalAutoProcessVirtualKeyboardControl.Visible:=False;
 
 {$IFNDEF MSWINDOWS}  
   pnlVirtualKeyBoard.SelfOwnMaterialToDefault.IsTransparent:=True;  
@@ -301,7 +309,7 @@ https://github.com/DelphiTeacher/OrangeUIStyles.git
  将 ItemDesignerPanel 放在 Frame 中还有一个好处就是可以继承和复用。  
 可以在基类的基础上自定义和进行扩展。  
 并且大家可以将自己设置的 ListItemStyle 分享出来，放在我的 Github 上。  
- 为此 ItemDesignerPanel 特别加入了 PreviewItem 和 IsPreview 这两个属性用于在 Frame 中单独设计时使用。  
+ 为此 ItemDesignerPanel 特别加入了 PreviewItem 和 IsPreview 这两个属性用于在 Frame 中单独设计时使用。
 
 4．TSkinPicture 加入了 IsClipRound，可以实现将图片剪裁成圆角.
 
@@ -453,8 +461,7 @@ f)等等等等。
 
 9．ListBox 加入了平拖准备事件 OnPrepareItemPanDrag，  
 可以在该事件中根据列表项来决定是否需要平拖，以及所需要的按钮，  
-在 OrangeUIDemo 示例中的 ListBoxFrame_UseItemPanDrag 单元中  
-
+在 OrangeUIDemo 示例中的 ListBoxFrame_UseItemPanDrag 单元中
 
 ## 2017-05-03：发布 OrangeUI FMX 1.72
 
@@ -630,7 +637,7 @@ LevelRightIsFitControlWidth 为 True
 3．修复了当 TabSheet 绑定 NotifyNumberIcon，更改 NotifyNumberIcon 的 Number，不立即刷新的问题，感谢网友Ｈ E Ｎ K Ｅ L  
 4．应客户要求，ListBox 等加入了长按列表项的 OnLongTapItem 的事件  
 5．设计时，ListBox 的列表项设计器会挡住图片选择框的问题  
-6．ScrollBar 加入了 Mobile 的 ComponentType，如需使用，请作以下设置  
+6．ScrollBar 加入了 Mobile 的 ComponentType，如需使用，请作以下设置
 
 7．ScrollBar 修复滚动时有时候会自动隐藏的问题  
 8．ScrollBar 默认皮肤
@@ -726,8 +733,7 @@ LevelRightIsFitControlWidth 为 True
 2.ListBox 的列表项的图标默认使用 ListBox 中设置的 SkinImageList  
 3.ListView 不同列表项宽度的显示处理  
 4.ImageListViewer 增加左右按键移动的功能  
-5.基类控件增加 MouseDownFocus 属性(鼠标按下就获取焦点)  
-
+5.基类控件增加 MouseDownFocus 属性(鼠标按下就获取焦点)
 
 ## 2014-09-28:发布 OrangeUI FMX 1.2 稳定版
 
